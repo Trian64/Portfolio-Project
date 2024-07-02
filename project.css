@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #212121;
+  }
+
+h3{font-size: 30px;
+  transform: translate(15px,0px);
+color:white;
+text-align: center;
+
+}
+ 
+p{font-size: 20px;
+    padding: 10px;
+   margin:10px ;
+    color:white;
+    border-radius: 10px;
+ background-image:linear-gradient(rgb(93, 93, 93), #46037a)
+}
+.border{background-color: rgb(93, 93, 93);
+border-radius: 25px;
+border-style: solid;
+margin: 25px;
+}
+.navbar{
+  right: 0;
+  display:inline;
+  border-radius: 5px;
+  padding: 5px;
+  position: fixed;
+  z-index: 1;
+
+}
+
+
+.images{
+    text-align: center;
+   
+}
+.electric{
+      margin: 10px;
+        border-radius: 20px;
+}
+
+
+
+
+a:link {
+  color: white;}
+  a:visited{
+    color: lightblue;
+}
+
+button{ 
+  color: white;
+  border-radius: 20px;
+background-color: #46037a;
+}
+
+
+button:visited{
+  color: lightblue;
+}

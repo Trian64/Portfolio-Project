@@ -1,0 +1,56 @@
+h1{ text-align: center;
+color: white;}
+html{background-color: #212121;}
+.contactinfo{ width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;
+    transform: translate(40px,0px);
+
+}
+.message{width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    font-family: Arial;
+    margin: 5px;
+
+    transform: translate(40px,0px);
+}
+.msgbutton{transform: translate(50px,-5px);
+     border-radius: 10px;
+    }
+
+.navbar{position:absolute;
+    right: 0;
+    display:inline;
+    border-radius: 5px;
+    padding: 5px;
+    position: fixed;
+}
+.contact-border{background-color: rgb(93, 93, 93);
+    border-radius: 15px;
+    border-style: solid;
+    padding: 5px;
+    margin: 5%;
+}
+
+a:link {
+    color: white;}
+    a:visited{
+      color: lightblue;
+  }
+  
+  button{ 
+    color: white;
+    border-radius: 20px;
+  background-color: #46037a;
+  }
+  
+  button:visited{
+    color: lightblue;
+  }
+.mail{
+    width: 200px;
+    float: right;
+      clear: right;    
+}
