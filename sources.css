@@ -2,18 +2,20 @@ html {
     height: 100%;
     width: 100%;
     background-color: #212121;
-  }
-
+}
 h3{font-size: 30px;
+  text-align: center;
  
 color:white;
-text-align: center;
+
+
 
 }
  
 p{font-size: 20px;
+    text-align: center;
     padding: 10px;
-   margin:10px ;
+    margin:10px ;
     color:white;
     border-radius: 10px;
  background-image:linear-gradient(rgb(93, 93, 93), #46037a)
@@ -30,25 +32,7 @@ margin: 25px;
   padding: 5px;
   position: fixed;
   z-index: 1;
-
 }
-img:hover,
-img:focus{
-  width:275px;
-transition: .6s;
-}
-img{
-    transition: 1s;
-}
-.images{
-    text-align: center;
-   
-}
-.electric{
-      margin: 10px;
-        border-radius: 20px;
-}
-
 
 a:hover {color: #7829FC;}
 a {color: white;; text-decoration: none;}
@@ -61,7 +45,3 @@ button{
 background-color: #46037a;
 }
 
-
-button:visited{
-  color: lightblue;
-}

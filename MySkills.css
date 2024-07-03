@@ -4,7 +4,7 @@ html {
     background-color: #212121;
   }
 h3{font-size: 30px;
-  transform: translate(15px,0px);
+  
 color:white;
 text-align: center;
 }
@@ -53,11 +53,10 @@ margin: 25px;
    
 }
 
-a:link {
-    color: white;}
-    a:visited{
-      color: lightblue;
-  }
+a:hover {color: #7829FC;}
+a {color: white;; text-decoration: none;}
+
+
 button{ 
     color: white;
   background-color: #46037a;

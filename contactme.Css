@@ -34,11 +34,10 @@ html{background-color: #212121;}
     margin: 5%;
 }
 
-a:link {
-    color: white;}
-    a:visited{
-      color: lightblue;
-  }
+a:hover {color: #7829FC;}
+a {color: white;; text-decoration: none;}
+
+
   
   button{ 
     color: white;

@@ -13,7 +13,6 @@ h1{ text-align: center;
     color:white;}
 h3{font-size: 30px;
   text-align: center;
-  transform: translate(15px,0px);
 color:white;
 
 
@@ -40,24 +39,31 @@ margin: 25px;
   position: fixed;
   z-index: 1;
 }
-
-.setup{
+.hike{
   border-radius: 20px;
+  margin: 10px;
+  display: block;
+}
+.setup{
   margin-left: auto;
-  display: block; 
+  border-radius: 20px;
+
+margin: 10px;
 
 
 }
 .images{
- margin: 30px;
+text-align: center;
+display: flex;
+justify-content: center
+;
 
 
 }
-a:link {
-  color: white;}
-  a:visited{
-    color: lightblue;
-}
+a:hover {color: #7829FC;}
+a {color: white;; text-decoration: none;}
+
+
 
 button{ 
   color: white;
